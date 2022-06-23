@@ -9,7 +9,7 @@ Filter functionalities by role,5,8,0,0,0,1
 Request for activity grains,5,47,0,0,1,1
 See points,1,5,0,0,1,0
 Accept or deny Request for Alten grains,3,44,0,0,0,1
-Cancel Request (activities and rewards),3,18,1,0,0,1
+Cancel Request (activities and rewards),3,18,0,0,0,1
 Request for a reward,2,5,0,0,0,0
 See pending requests for rewards and activities,5,18,0,0,0,0
 Learn react query (and apply to the project),5,34,1,0,0,1
@@ -20,12 +20,12 @@ Send Notification,5,28,1,1,1,1
 Filters for the view of pending requests,3,3,0,0,0,1
 Print notification,5,30,0,1,0,1
 Show title of a page in the navbar,2,1,0,0,0,0
-Give feedback when a user performs an action,3,15,1,1,1,1
+Give feedback when a user performs an action,3,15,0,1,1,1
 Add grains info in reward and activities page,1,3,0,0,0,0
 Event date in request for arcitivities,2,21,0,0,0,1
 Validation popup for actions,2,14,0,0,0,1
 Possibility to delete a tenant,3,11,0,0,1,0
-Search for widgets,8,30,0,0,1,0
+Search for widgets,8,30,1,0,1,0
 Add a widget to the dashboard,8,33,0,1,0,0
 Delete widgets,3,13,0,0,0,0
 Save widget position,8,26,0,0,0,0
