@@ -19,8 +19,8 @@
 
 ### Detailed statistics
 
-| Story | # Tasks | Points | Effort in Hours |
-| ----- | ------- | ------ | --------------- |
+| Story | # Tasks | Points | 
+| ----- | ------- | ------ | 
 | 1     | 2       | 5      |
 | 2     | 1       | 1      |
 | 3     | 5       | 3      |

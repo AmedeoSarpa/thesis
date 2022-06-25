@@ -19,13 +19,13 @@
 
 ### Detailed statistics
 
-| Story                                 | # Tasks | Points | Effort in Hours |
-| ------------------------------------- | ------- | ------ | --------------- |
-| 1 - Define user interface             | 1       | 5      | 105h            |
-| 2 - CRUD activities                   | 8       | 21     | 70h             |
-| 3 - Login page                        | 5       | 8      | 14h             |
-| 4 - Show widget list in the home page | 4       | 13     | 70h             |
-| 5 - Create a reward                   | 9       | 8      | 55h             |
+| Story                                 | # Tasks | Points | 
+| ------------------------------------- | ------- | ------ | 
+| 1 - Define user interface             | 1       | 5      | 
+| 2 - CRUD activities                   | 8       | 21     | 
+| 3 - Login page                        | 5       | 8      | 
+| 4 - Show widget list in the home page | 4       | 13     | 
+| 5 - Create a reward                   | 9       | 8      | 
 
 ## QUALITY MEASURES
 

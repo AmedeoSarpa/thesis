@@ -19,14 +19,14 @@
 
 ### Detailed statistics
 
-| Story                      | # Tasks | Points | Effort in Hours |
-| -------------------------- | ------- | ------ | --------------- |
-| 1 - GitLab setup           | 5       | 5      | 8h              |
-| 2 - Figma Mockup           | 9       | 21     | 56h             |
-| 3 - Study MSAL protocol    | 3       | 13     | 21h             |
-| 4 - Setup react and nestjs | 4       | 3      | 7h              |
-| 5 - Define home page       | 7       | 21     | 147h            |
-| 6 - CRUD activities        | 5       | 21     | 68h             |
+| Story                      | # Tasks | Points |
+| -------------------------- | ------- | ------ |
+| 1 - GitLab setup           | 5       | 5      |
+| 2 - Figma Mockup           | 9       | 21     |
+| 3 - Study MSAL protocol    | 3       | 13     |
+| 4 - Setup react and nestjs | 4       | 3      |
+| 5 - Define home page       | 7       | 21     |
+| 6 - CRUD activities        | 5       | 21     |
 
 ## QUALITY MEASURES
 

@@ -19,18 +19,18 @@
 
 ### Detailed statistics
 
-| Story                                       | # Tasks | Points | Effort in Hours |
-| ------------------------------------------- | ------- | ------ | --------------- |
-| 1 - Create hel chart and deploy the Rewards | 2       | 2      | 21h             |
-| 2 - Restyle of user interface               | 6       | 5      | 40h             |
-| 3 - Create a reward                         | 9       | 5      | 30h             |
-| 4 - View list of rewards                    | 4       | 3      | 14h             |
-| 5 - Modify a reward                         | 4       | 3      | 35h             |
-| 6 - Delete a reward                         | 3       | 3      | 15h             |
-| 7 - Filter functionalities by role          | 2       | 2      | 7h              |
-| 8 - See alten points                        | 1       | 2      | 3h              |
-| 9 - Create a request                        | 3       | 3      | 7h              |
-| 10 - Accept or deny a request               | 2       | 5      | 14h             |
+| Story                                       | # Tasks | Points | 
+| ------------------------------------------- | ------- | ------ | 
+| 1 - Create hel chart and deploy the Rewards | 2       | 2      | 
+| 2 - Restyle of user interface               | 6       | 5      | 
+| 3 - Create a reward                         | 9       | 5      | 
+| 4 - View list of rewards                    | 4       | 3      | 
+| 5 - Modify a reward                         | 4       | 3      | 
+| 6 - Delete a reward                         | 3       | 3      | 
+| 7 - Filter functionalities by role          | 2       | 2      | 
+| 8 - See alten points                        | 1       | 2      | 
+| 9 - Create a request                        | 3       | 3      | 
+| 10 - Accept or deny a request               | 2       | 5      | 
 
 ## QUALITY MEASURES
 

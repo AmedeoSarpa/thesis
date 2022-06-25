@@ -1,11 +1,11 @@
-# Amedeo Sarpa Intern RETROSPECTIVE Sprint 5
+# Amedeo Sarpa Intern RETROSPECTIVE Sprint 6
 
 ## PROCESS MEASURES
 
 ### Macro statistics
 
-- Number of stories committed vs done : 7/7
-- Total points committed vs done : 27/27
+- Number of stories committed vs done : 
+- Total points committed vs done : /
 
 ### Definition of Done
 
@@ -19,15 +19,15 @@
 
 ### Detailed statistics
 
-| Story | # Tasks | Points | 
+| Story | # Tasks | Points |
 | ----- | ------- | ------ | 
-| 1     | 1       | 1      |
-| 2     | 6       | 8      |
-| 3     | 2       | 5      |
-| 4     | 1       | 3      |
-| 5     | 7       | 5      |
-| 6     | 3       | 2      |
-| 7     | 4       | 3      |
+|     |        |       |
+|     |        |       |
+|     |        |       |
+|     |        |       |
+|     |        |       |
+|     |        |       |
+|     |        |       |
 
 ## QUALITY MEASURES
 
@@ -39,21 +39,20 @@
 - E2E testing:
   - Not yet done
 - Code review
-  - 3h
+  - h
 
 ## ASSESSMENT
 
-- What caused your errors in estimation (if any)? <br> Even if we were able to terminate the sprint, we underestimated the story: "print notification". During the planning we forgot that the use of notification back end requires the utilitation of a new protocol, the gRPC.
+- What caused your errors in estimation (if any)? 
 
 - What lessons did you learn (both positive and negative) in this sprint?
 
-  - During the planning, we should go more in depth and consult also the C4 model taking in consideration the architecture.
+  
 
 - Which improvement goals set in the previous retrospective were you able to achieve? <br>
-  We better manage gitlab's branch and we did more often merge request.
+  
 - Which ones you were not able to achieve? Why?<br>
-  We still do not use the excell file to keep track of the env variables, probably because the team member that manage cloud is the same that has put the env variable in the code.
-
+  
 - Improvement goals for the next sprint <br>
 
   - try not to get to the day before the review with pressure and code not yet on the main
