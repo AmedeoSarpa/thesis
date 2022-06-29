@@ -33,7 +33,7 @@
 
 - Unit Testing:
 
-  - Nr of automated unit test cases : x Front End + x Back End
+  - Nr of automated unit test cases : 68 Front End + 207 Back End
   - Coverage : 95.96%
 
 - E2E testing:
