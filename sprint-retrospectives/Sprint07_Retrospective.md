@@ -4,8 +4,8 @@
 
 ### Macro statistics
 
-- Number of stories committed vs done : 13/ 
-- Total points committed vs done : 30/
+- Number of stories committed vs done : 13/13
+- Total points committed vs done : 30/30
 
 ### Definition of Done
 
@@ -39,25 +39,26 @@
 
 - Unit Testing:
 
-  - Nr of automated unit test cases : x Front End + x Back End
-  - Coverage : %
+  - Nr of automated unit test cases : 67 Front End + 353 Back End
+  - Coverage : 96.45%
 
 - E2E testing:
   - Not yet done
 - Code review
-  - h
+  - 6h
 
 ## ASSESSMENT
 
 - What caused your errors in estimation (if any)? 
 
 - What lessons did you learn (both positive and negative) in this sprint?
-
-  
+  - 
 
 - Which improvement goals set in the previous retrospective were you able to achieve? <br>
+  - Saurav well integrated in the team
   
 - Which ones you were not able to achieve? Why?<br>
+  - We did not fill a file with known bug but because we thought that the jira representation is enough.
   
 - Improvement goals for the next sprint <br>
 

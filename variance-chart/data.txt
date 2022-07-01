@@ -35,16 +35,16 @@ Delete widgets,3,13
 Save widget position,8,26
 Suggest activity,3,10
 #SPRINT 7
-Better profile,2,
-User Friendly Button,1,
-Better visual Consultant page,2,
-Add integration test,2,
-Add CMC role,1,
-Clear notifications,8,
-Search user,1,
-See an entity profile,2,
-Send notification automatically,2,
-Widget navigation,2,
-Lighten the list by pagination,2,
-Default widget for user,2,
-Improve widget layout,3,
+Better profile,2,9
+User Friendly Button,1,1
+Better visual Consultant page,2,11
+Add integration test,2,7
+Add CMC role,1,2
+Clear notifications,8,25
+Search user,1,4
+See an entity profile,2,8
+Send notification automatically,2,3
+Widget navigation,2,9
+Lighten the list by pagination,2,19
+Default widget for user,2,10
+Improve widget layout,3,17
