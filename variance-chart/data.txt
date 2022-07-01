@@ -48,3 +48,15 @@ Widget navigation,2,9
 Lighten the list by pagination,2,19
 Default widget for user,2,10
 Improve widget layout,3,17
+#SPRINT 8
+Move checkbox in widget,1,
+Resize icon,1,
+Add the number of the selected Consultant,1,
+Possibility to approve/deny a request from the notification,3,
+Add statistics about Consultant grains,5,
+Show the entire name in widgets,1,
+Assign admin role,2,
+Research Consultant in its page,3,
+Count tenants,3,
+Tenant requests implementation,8,
+Possibility to sort lists,2,
