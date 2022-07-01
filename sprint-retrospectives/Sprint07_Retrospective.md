@@ -50,17 +50,20 @@
 ## ASSESSMENT
 
 - What caused your errors in estimation (if any)? 
+  - The user story regarding the pagination was underestimated for us because we forgot about filters and took more time than expected because there were a lot of dependencies we did not spot.
 
 - What lessons did you learn (both positive and negative) in this sprint?
-  - 
+  - As already said in previous retrospectives, we should go more in deep when we discuss about stories, because we may forgot dependencies.
 
 - Which improvement goals set in the previous retrospective were you able to achieve? <br>
-  - Saurav well integrated in the team
+  - Saurav well integrated in the team.
   
 - Which ones you were not able to achieve? Why?<br>
   - We did not fill a file with known bug but because we thought that the jira representation is enough.
   
 - Improvement goals for the next sprint <br>
+  - fix the front-end's pipeline, since sometimes fails even if in local all is ok.
+  - update readme of repositories
 
   
 
