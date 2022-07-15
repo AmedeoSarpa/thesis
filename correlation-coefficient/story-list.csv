@@ -46,11 +46,10 @@ Improve widget layout,3,17,0,0,0,0
 Move checkbox in widget,1,,0,0,0,
 Resize icon,1,,0,0,0,
 Add the number of the selected Consultant,1,,0,0,0,
-Possibility to approve/deny a request from the notification,3,,0,0,0,
 Add statistics about Consultant grains,5,,0,0,0,
 Show the entire name in widgets,1,,0,0,0,
 Assign admin role,2,,0,0,0,
 Research Consultant in its page,3,,0,0,0,
-Count tenants,3,,0,0,1
+Count tenants,3,,0,0,1,
 Tenant requests implementation,8,,0,0,0,
-Possibility to sort lists,2,,0,0,0,
+Create consultant,8,,0,0,1,
