@@ -26,7 +26,7 @@ class UserStory :
 
 if __name__ == '__main__' :
        #NUMBER OF THE CURRENT SPRINT
-       analyzed_sprint = 7
+       analyzed_sprint = 8
        #MODIFY THE VALUE ABOVE 
 
        number_of_bad_estimations = 0

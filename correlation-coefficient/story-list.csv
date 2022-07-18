@@ -43,13 +43,12 @@ Widget navigation,2,9,0,0,0,0
 Lighten the list by pagination,2,19,0,0,0,1
 Default widget for user,2,10,0,0,0,0
 Improve widget layout,3,17,0,0,0,0
-Move checkbox in widget,1,,0,0,0,
-Resize icon,1,,0,0,0,
-Add the number of the selected Consultant,1,,0,0,0,
-Add statistics about Consultant grains,5,,0,0,0,
-Show the entire name in widgets,1,,0,0,0,
-Assign admin role,2,,0,0,0,
-Research Consultant in its page,3,,0,0,0,
-Count tenants,3,,0,0,1,
-Tenant requests implementation,8,,0,0,0,
-Create consultant,8,,0,0,1,
+Move checkbox in widget,1,1,0,0,0,0
+Resize icon,1,1,0,0,0,0
+Add the number of the selected Consultant,1,1,0,0,0,0
+Add statistics about Consultant grains,5,31,0,0,0,1
+Show the entire name in widgets,1,4,0,0,0,0
+Assign admin role,2,7,0,0,0,0
+Research Consultant in its page,1,10,0,0,0,1
+Count tenants,3,17,0,0,1,0
+Tenant requests implementation,8,30,0,0,0,0
