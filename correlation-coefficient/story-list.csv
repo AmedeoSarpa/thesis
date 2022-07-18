@@ -52,3 +52,11 @@ Assign admin role,2,7,0,0,0,0
 Research Consultant in its page,1,10,0,0,0,1
 Count tenants,3,17,0,0,1,0
 Tenant requests implementation,8,30,0,0,0,0
+Create a consultant,8,,0,0,1,
+List of consultants,2,,0,0,0,
+Modify consultant,2,,0,0,0,
+Consultant page for BM,2,,0,0,0,
+Consultant page for Consultant,2,,0,0,0,
+Delete a consultant,3,,0,0,0,
+See consultants' statistic widget,2,,0,0,0,
+new design adaptation,5,,0,0,0,
