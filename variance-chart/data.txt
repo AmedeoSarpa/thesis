@@ -59,14 +59,14 @@ Research Consultant in its page,1,10
 Count tenants,3,17
 Tenant requests implementation,8,30
 #SPRINT 9
-Create a consultant,8
-List of consultants,2
-Modify consultant,2
-Consultant page for BM,2
-Consultant page for Consultant,2
-Delete a consultant,3
-See consultants' statistic widget,2
-new design adaptation,5
+Create a consultant,8,59
+List of consultants,2,17
+Modify consultant,2,8
+Consultant page for BM,2,10
+Consultant page for Consultant,2,14
+Delete a consultant,3,13
+See consultants' statistic widget,2,8
+new design adaptation,5,21
 
 
 
